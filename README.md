@@ -140,19 +140,6 @@ Contains preview images and showcase screenshots used for GitHub and catalog pag
 
 ---
 
-## Good screenshots to add
-
-To make the project page much stronger, I’d add:
-
-1. **A long-distance mountain panorama**
-2. **A cliff basin or deep valley shot**
-3. **A side-by-side preset comparison**
-4. **A spawn-area screenshot** showing how playable the terrain feels
-5. **A high-elevation overview** showing the silhouette of the world
-6. **A lowland-to-peak transition shot** to show scale
-
----
-
 ## Notes
 
 * This project is intended to be documented and released as a **world generation project**, not as a standard gameplay mod or texture pack.
@@ -162,15 +149,14 @@ To make the project page much stronger, I’d add:
 
 ---
 
-## Suggested future improvements
+## Future improvements
 
-Good future directions for this project could include:
+Future directions for this project:
 
 * biome-specific surface materials and decoration logic
 * more distinct regional generation themes
 * dedicated alpine, canyon, or shattered-land presets
 * improved cave integration to match the surface drama
-* optional compatibility hooks for minimap or terrain-preview mods
 
 ---
 
